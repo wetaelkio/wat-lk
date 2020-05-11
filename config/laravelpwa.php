@@ -7,7 +7,7 @@ return [
     'short_name' => 'WeTælk',
     'start_url' => '/',
     'background_color' => '#ffffff',
-    'theme_color' => '#3b5999',
+    'theme_color' => '#3b5998',
     'display' => 'standalone',
     'orientation'=> 'any',
     'status_bar'=> 'black',
