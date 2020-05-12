@@ -12,7 +12,7 @@
 <meta property="og:url" content="{{ url()->current() }}" />
 <meta property="og:title" content="@yield('pageTitle', config('app.name'))" />
 <meta property="og:description" content="@yield('pageDescription', 'WeTælk is a social media that is passionate about your idea, ready to promoting love and equitable distribution of wealth')" />
-<meta property="og:image" content="{{ config('app.url') }}/assets/images/brand/logo-wbg.png" />
+<meta property="og:image" content="{{ config('app.url') }}/assets/images/brand/logo-wbg.jpg" />
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:alt" content="{{ config('app.nick') }}" />
 <meta property="og:image:width" content="512">
@@ -25,7 +25,7 @@
 <meta name="twitter:creator" content="@emmanuelJet_">
 <meta name="twitter:title" content="@yield('pageTitle', config('app.name'))">
 <meta name="twitter:description" content="@yield('pageDescription', 'WeTælk is a social media that is passionate about your idea, ready to promoting love and equitable distribution of wealth')">
-<meta name="twitter:image:src" content="{{ config('app.url') }}/assets/images/brand/logo-wbg.png">
+<meta name="twitter:image:src" content="{{ config('app.url') }}/assets/images/brand/logo-wbg.jpg">
 <meta name="twitter:image:alt" content="{{ config('app.nick') }}">
 <meta property="twitter:image:width" content="512">
 <meta property="twitter:image:height" content="512">
